@@ -380,15 +380,15 @@ The problem statement specifically asks for a weekly premium model, because gig 
 
 &#x20;----------------------------------------------------------------
 
-| Plan 		| Weekly Premium | Weekly Coverage  | Max Payout |
+| Plan 		      | Weekly Premium | Weekly Coverage  | Max Payout |
 
 |---------------|----------------|------------------|------------|
 
-| Basic 	|    ₹29	 | Low-risk zones   |   ₹500 	 |
+| Basic 	      |    ₹29	       | Low-risk zones   |   ₹500 	   |
 
-| Standard 	|    ₹39	 | Medium-risk zones|   ₹800 	 |
+| Standard 	    |    ₹39	       | Medium-risk zones|   ₹800 	   |
 
-| Premium 	|    ₹49	 | High-risk zones  |   ₹1000 	 |
+| Premium 	    |    ₹49	       | High-risk zones  |   ₹1000 	 |
 
 &#x20;----------------------------------------------------------------
 
@@ -458,17 +458,17 @@ Used when weather or pollution directly affects work.
 
 &#x20;----------------------------------------------------------
 
-| Event 	   | Trigger Condition 			   |
+| Event 	         | Trigger Condition 			               |
 
 |------------------|---------------------------------------|
 
-| Heavy Rain 	   | Rainfall > 60 mm in 24 hours 	   |
+| Heavy Rain 	     | Rainfall > 60 mm in 24 hours 	       |
 
-| Heatwave 	   | Temperature > 45°C 		   |
+| Heatwave 	       | Temperature > 45°C 		               |
 
 | Flood Alert 	   | Official flood warning in worker zone |
 
-| Severe Pollution | AQI > 350 				   |
+| Severe Pollution | AQI > 350 				                     |
 
 &#x20;----------------------------------------------------------
 
@@ -482,17 +482,17 @@ Used when workers cannot move or access delivery zones.
 
 &#x20;----------------------------------------------------------------
 
-| Event 	    | Trigger Condition 			 |
+| Event 	          | Trigger Condition 			                   |
 
 |-------------------|--------------------------------------------|
 
-| Curfew 	    | Government-issued local curfew 		 |
+| Curfew 	          | Government-issued local curfew 		         |
 
-| Strike / Shutdown | Official city or local strike alert 	 |
+| Strike / Shutdown | Official city or local strike alert 	     |
 
 | Road Closure 	    | Major route closures affecting service area|
 
-| Restricted Zone   | Local administration blocks movement 	 |
+| Restricted Zone   | Local administration blocks movement 	     |
 
 &#x20;----------------------------------------------------------------
 
@@ -506,13 +506,13 @@ Used when external conditions reduce work availability.
 
 &#x20;--------------------------------------------------------------------------------
 
-| Event 		 | Trigger Condition 					 |
+| Event 		             | Trigger Condition 					                           |
 
 |------------------------|-------------------------------------------------------|
 
-| Delivery Activity Drop | >50% drop in orders vs normal baseline 		 |
+| Delivery Activity Drop | >50% drop in orders vs normal baseline 		           |
 
-| Service Zone Shutdown  | Platform stops accepting orders in that area 	 |
+| Service Zone Shutdown  | Platform stops accepting orders in that area 	       |
 
 | Rider Downtime Spike   | Unusual increase in worker idle time in affected zone |
 
